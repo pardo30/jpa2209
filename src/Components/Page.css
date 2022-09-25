@@ -1,0 +1,20 @@
+.page{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 210px) ;
+    justify-content: center;
+    justify-items: center;
+    /* @media only screen and (max-width: 1023px) {
+       grid-template-columns: repeat(4, 195px); 
+    }
+    @media only screen and (max-width: 768px) {
+        grid-template-columns: repeat(3, 195px); 
+    }
+    @media only screen and (max-width: 450px) {
+        grid-template-columns: repeat(1, 195px); 
+    } */
+ }
+
+.pageMiniature {
+    margin-top: 5px;
+}
+
