@@ -1,0 +1,61 @@
+[
+    {
+        "title":"Otoño",
+        "imagen":"/img/grabados/carburundum/Otoño.jpg",
+        "miniatura":"/img/grabados/carburundum/Otoño_min.jpg",
+        "matriz":"400 x 600 mm (Madera contrachapada) 2 ud.",
+        "papel":"520 x 720 mm (Super Alfa)",
+        "otros1":"SEGUNDO PREMIO. Certamen artístico 2006. Ministerio de Fomento. Sección: Artes aplicadas.",
+        "posicion":2
+        },
+        {
+        "title":"Remeros",
+        "imagen":"/img/grabados/carburundum/Remeros.jpg",
+        "miniatura":"/img/grabados/carburundum/Remeros_min.jpg",
+        "matriz":"580 x 400 mm (Madera contrachapada)",
+        "papel":"700 x 520 mm (Super Alfa)",
+        "otros1":"MENCIÓN DE HONOR. Certamen artístico 2006 Ministerio de Fomento. Sección: Artes aplicadas.",
+        "posicion":3
+        },
+        {
+        "title":"Preparados para la danza",
+        "imagen":"/img/grabados/carburundum/Preparados para la danza.jpg",
+        "miniatura":"/img/grabados/carburundum/Preparados para la danza_min.jpg",
+        "matriz":"425 x 275 mm (Cartón)",
+        "papel":": 500 x 380 mm (Super Alfa)",
+        "otros1":"TERCER PREMIO. Certamen artístico 2004. Ministerio de Fomento. Sección: Artes aplicadas.",
+        "posicion":1
+        },
+        {
+        "title":"Mujer con sombrero rojo",
+        "imagen":"/img/grabados/carburundum/Mujer con sombrero rojo.jpg",
+        "miniatura":"/img/grabados/carburundum/Mujer con sombrero rojo_min.jpg",
+        "matriz":"250 x 350 mm (cartón) 4 ud.",
+        "papel":"380 x 560 mm (Super Alfa).",
+        "posicion":4
+        },
+        {
+        "title":"Mujer con sombrero verde",
+        "imagen":"/img/grabados/carburundum/Mujer con sombrero verde.jpg",
+        "miniatura":"/img/grabados/carburundum/Mujer con sombrero verde_min.jpg",
+        "matriz":"250 x 350 mm (cartón) 4 ud.",
+        "papel":"380 x 560 mm (Super Alfa).",
+        "posicion":5
+        },
+        {
+        "title":"Colmillo blanco",
+        "imagen":"/img/grabados/carburundum/Colmillo blanco.jpg",
+        "miniatura":"/img/grabados/carburundum/Colmillo blanco_min.jpg",
+        "matriz":"280 x 190 mm (madera DM)",
+        "papel":"350 x 400 mm (Super Alfa)",
+        "posicion":6
+        },
+        {
+        "title":"Corriendo al agua",
+        "imagen":"/img/grabados/carburundum/Corriendo al agua.jpg",
+        "miniatura":"/img/grabados/carburundum/Corriendo al agua_min.jpg",
+        "matriz":"600 x 400 mm (madera contrachapada)",
+        "papel":"700 x 500 mm (Super Alfa). Siluetas recortadas y pegadas",
+        "posicion":7
+        } 
+]

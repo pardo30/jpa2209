@@ -30,8 +30,8 @@ export const Navbar = () => {
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink to="/otrastecnicas" className={({ isActive }) => (isActive ? "active" : "")}>
-                            Otras técnicas
+                        <NavLink to="/felicitaciones" className={({ isActive }) => (isActive ? "active" : "")}>
+                            Felicitaciones
                         </NavLink>
                     </li>
                     <li>

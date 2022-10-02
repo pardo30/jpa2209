@@ -1,0 +1,129 @@
+[
+    {
+        "title":"Navidad 2017",
+        "imagen":"/img/grabados/xilografia/Navidad 2017.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2017_min.jpg",
+        "matriz":"Varias (Linóleo)",
+        "papel":"300 x 150 mm (Hecho a mano) plegado",
+        "otros1":"Técnica: Linoleografía iluminada",
+        "posicion":14
+        },
+        {
+        "title":"Navidad 2016",
+        "imagen":"/img/grabados/xilografia/Navidad 2016.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2016_min.jpg",
+        "matriz":"150 x 150 mm (Zinc) ",
+        "papel":"300 x 150 mm (Hecho a mano) plegado",
+        "otros1":"Técnica: Aguafuerte iluminado",
+        "posicion":13
+        },
+        {
+        "title":"Navidad 2015",
+        "imagen":"/img/grabados/xilografia/Navidad 2015.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2015_min.jpg",
+        "matriz":"Varias (Linóleo)",
+        "papel":"300 x 150 mm (Hecho a mano) plegado",
+        "otros1":"Técnica: Linoleografía",
+        "posicion":12
+        },
+        {
+        "title":"Navidad 2014",
+        "imagen":"/img/grabados/xilografia/Navidad 2014.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2014_min.jpg",
+        "matriz":"230 x 170 mm (Linóleo)",
+        "papel":"220 x 160 mm (Super Alfa) plegado",
+        "otros1":"Técnica: Linoleografía",
+        "posicion":11
+        },
+        {
+        "title":"Navidad 2013",
+        "imagen":"/img/grabados/xilografia/Navidad 2013.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2013_min.jpg",
+        "matriz":"110 x 200 mm (Madera contrachapada)",
+        "papel":"200 x 190 mm (Super Alfa) plegado",
+        "otros1":"Técnica: Xilografía a la fibra",
+        "posicion":10
+        },
+        {
+        "title":"Navidad 2012",
+        "imagen":"/img/grabados/xilografia/Navidad 2012.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2012_min.jpg",
+        "matriz":"200 x 200 mm (Zinc)",
+        "papel":"400 x 200 mm (Super Alfa) plegado",
+        "otros1":"Técnica: Aguatinta",
+        "posicion":9
+        },
+        {
+        "title":"Navidad 2011",
+        "imagen":"/img/grabados/xilografia/Navidad 2011.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2011_min.jpg",
+        "matriz":"variable (Linóleo)",
+        "papel":"Super Alfa recortado y plegado",
+        "otros1":"Técnica: Linoleografía",
+        "posicion":8
+        },
+        {
+        "title":"Navidad 2010",
+        "imagen":"/img/grabados/xilografia/Navidad 2010.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2010_min.jpg",
+        "matriz":"120 x 120 mm (Madera contrachapada) 3 ud.",
+        "papel":"300 x 150 mm (Hecho a mano) plegado",
+        "otros1":"Técnica: Xilografía a la fibra",
+        "posicion":7
+        },
+        {
+        "title":"Navidad 2009",
+        "imagen":"/img/grabados/xilografia/Navidad 2009.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2009_min.jpg",
+        "matriz":"60 x 170 mm (Linóleo)",
+        "papel":"220 x 160 mm (Super Alfa) plegado",
+        "otros1":"Técnica: Linoleografía y pan de oro",
+        "posicion":6
+        },
+        {
+        "title":"Navidad 2008",
+        "imagen":"/img/grabados/xilografia/Navidad 2008.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2008_min.jpg",
+        "matriz":"120 x 160 mm (Linóleo)",
+        "papel":"220 x 160 mm (Super Alfa) plegado",
+        "otros1":"Técnica: Gofrado",
+        "posicion":5
+        },
+        {
+        "title":"Navidad 2007",
+        "imagen":"/img/grabados/xilografia/Navidad 2007.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2007_min.jpg",
+        "matriz":"78 x 126 mm (Aluminio)",
+        "papel":"220 x 170 mm (Super Alfa) plegado",
+        "otros1":"Técnica: Punta seca",
+        "posicion":4
+        },
+        {
+        "title":"Navidad 2006",
+        "imagen":"/img/grabados/xilografia/Navidad 2006.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2006_min.jpg",
+        "matriz":"78 x 126 mm (Zinc)",
+        "papel":"280 x 190 mm (Super Alfa) plegado",
+        "otros1":"Técnica: Aguafuerte",
+        "posicion":3
+        },
+        {
+        "title":"Navidad 2005",
+        "imagen":"/img/grabados/xilografia/Navidad 2005.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2005_min.jpg",
+        "matriz":"67 x 86 mm (Zinc)",
+        "papel":"280 x 190 mm (Super Alfa) plegado",
+        "otros1":"Técnica: Aguafuerte",
+        "posicion":2
+        },
+        {
+        "title":"Navidad 2004",
+        "imagen":"/img/grabados/xilografia/Navidad 2004.jpg",
+        "miniatura":"/img/grabados/xilografia/Navidad 2004_min.jpg",
+        "matriz":"78 x 126 mm (Zinc)",
+        "papel":"230 x 170 mm (Super Alfa) plegado",
+        "otros1":"Técnica: Aguafuerte y aguatinta",
+        "posicion":1
+        }  
+
+]

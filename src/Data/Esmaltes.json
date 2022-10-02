@@ -1,0 +1,122 @@
+[
+    {
+        "title":"Miniatura medieval",
+        "imagen":"/img/esmaltes/Miniatura medieval.jpg",
+        "miniatura":"/img/esmaltes/Miniatura medieval_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre,140 x 200 mm",
+        "posicion":1
+        },
+        {
+        "title":"Sombrereria (Macke)",
+        "imagen":"/img/esmaltes/Sombrereria (Macke).jpg",
+        "miniatura":"/img/esmaltes/Sombrereria (Macke)_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre,160 x 200 mm",
+        "posicion":2
+        },
+        {
+        "title":"Niños bebiendo",
+        "imagen":"/img/esmaltes/Niños bebiendo.jpg",
+        "miniatura":"/img/esmaltes/Niños bebiendo_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre,190 x 230 mm",
+        "posicion":3
+        },
+        {
+        "title":"Porteadoras",
+        "imagen":"/img/esmaltes/Porteadoras.jpg",
+        "miniatura":"/img/esmaltes/Porteadoras_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre,180 x 210 mm",
+        "posicion":4
+        },
+        {
+        "title":"Vista de un callejon en Tunez (Macke)",
+        "imagen":"/img/esmaltes/Vista de un callejon en Tunez (Macke).jpg",
+        "miniatura":"/img/esmaltes/Vista de un callejon en Tunez (Macke)_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre,160 x 210 mm",
+        "posicion":5
+        },
+        {
+        "title":"La forma de las cosas por venir (Vettriano)",
+        "imagen":"/img/esmaltes/La forma de las cosas por venir (Vettriano).jpg",
+        "miniatura":"/img/esmaltes/La forma de las cosas por venir (Vettriano)_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre,95 x 65 mm",
+        "posicion":6
+        },
+        {
+        "title":"Maternidad (Klimt)",
+        "imagen":"/img/esmaltes/Maternidad (Klimt).jpg",
+        "miniatura":"/img/esmaltes/Maternidad (Klimt)_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre,150 x 200 mm",
+        "posicion":7
+        },
+        {
+        "title":"Bosque de abedules",
+        "imagen":"/img/esmaltes/Bosque de abedules.jpg",
+        "miniatura":"/img/esmaltes/Bosque de abedules_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre,190 x 150 mm",
+        "posicion":8
+        },
+        {
+        "title":"Flores y mariquitas",
+        "imagen":"/img/esmaltes/Flores y mariquitas.jpg",
+        "miniatura":"/img/esmaltes/Flores y mariquitas_min.jpg",
+        "esmalte": "Esmalte al fuego sobre piezas de cobre",
+        "posicion":9
+        },
+        {
+        "title":"Menina",
+        "imagen":"/img/esmaltes/Menina.jpg",
+        "miniatura":"/img/esmaltes/Menina_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre,100 x 150 mm",
+        "posicion":10
+        },
+        {
+        "title":"Despues del baño",
+        "imagen":"/img/esmaltes/Despues del baño.jpg",
+        "miniatura":"/img/esmaltes/Despues del baño_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre,100 x 150 mm",
+        "posicion":11
+        },
+        {
+        "title":"Adorando al sol",
+        "imagen":"/img/esmaltes/Adorando al sol.jpg",
+        "miniatura":"/img/esmaltes/Adorando al sol_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre recortada,160 x 230 mm",
+        "posicion":12
+        },
+        {
+        "title":"Bodegón",
+        "imagen":"/img/esmaltes/Bodegón.jpg",
+        "miniatura":"/img/esmaltes/Bodegón_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre,150 x 100 mm",
+        "posicion":13
+        },
+        {
+        "title":"Plato con sandia",
+        "imagen":"/img/esmaltes/Plato con sandia.jpg",
+        "miniatura":"/img/esmaltes/Plato con sandia_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre con piezas recortadas encima,110 x 110 mm",
+        "posicion":14
+        },
+        {
+        "title":"Plato con manzana",
+        "imagen":"/img/esmaltes/Plato con manzana.jpg",
+        "miniatura":"/img/esmaltes/Plato con manzana_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre con piezas recortadas encima,110 x 110 mm",
+        "posicion":15
+        },
+        {
+        "title":"Collar de perlas",
+        "imagen":"/img/esmaltes/Collar de perlas.jpg",
+        "miniatura":"/img/esmaltes/Collar de perlas_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre,100 x 150 mm",
+        "posicion":16
+        },
+        {
+        "title":"Colgante",
+        "imagen":"/img/esmaltes/Colgante.jpg",
+        "miniatura":"/img/esmaltes/Colgante_min.jpg",
+        "esmalte": "Esmalte al fuego sobre plancha de cobre recortada con cristales",
+        "posicion":17
+        }
+
+]

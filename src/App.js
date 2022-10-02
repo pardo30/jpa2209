@@ -7,9 +7,12 @@ import {
 } from "react-router-dom";
 import './App.css';
 import { Navbar } from "./Components/Navbar";
-import Acuarelas from "./Pages/Acuarelas";
 import Grabados from "./Pages/Grabados";
-
+import Page from "./Components/Page";
+// Import JSON
+import acuarelas from "./Data/Acuarelas.json";
+import esmaltes from "./Data/Esmaltes.json";
+import felicitaciones from "./Data/Felicitaciones.json"
 
 
 function App() {
@@ -23,9 +26,9 @@ function App() {
         <Routes>
         <Route path="/" element={<h1>Hello world</h1>} />
         <Route path="/grabados" element={<Grabados />} />
-        <Route path="/acuarelas" element={<Acuarelas />} />
-        <Route path="/esmaltes" element={<p>Esmaltes</p>} />
-        <Route path="/otrastecnicas" element={<p>Otras técnicas</p>} />
+        <Route path="/acuarelas" element={<Page data={acuarelas} />} />
+        <Route path="/esmaltes" element={<Page data={esmaltes} />} />
+        <Route path="/felicitaciones" element={<Page data={felicitaciones} />} />
         <Route path="/about" element={<p>About</p>} />
      </Routes>
      </div>
