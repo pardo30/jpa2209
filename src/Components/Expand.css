@@ -32,10 +32,24 @@
     max-height: 80vh;
 }
 
+
 .footerExpand{
     position: relative;
     display: inline-block;
     text-align: center;
+}
+
+.titleExpand {
+    font-size: xx-large;
+}
+
+.infoExpand{
+    font-size: medium;
+    cursor: pointer;
+}
+
+.infoExpand:hover{
+    font-weight: bold;
 }
 
 .details{
@@ -45,7 +59,7 @@
     transform: translate(-50%, -50%);
 }
 
-.closeExpand{
+.buttonExpand{
     margin: 0.5em;
     background-color: rgba(0, 0, 0, 0);
     border: none;
@@ -54,5 +68,10 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 1rem
+    font-size: 1rem;
+    cursor: pointer
+}
+
+.buttonExpand:hover{
+    font-weight: bold;
 }

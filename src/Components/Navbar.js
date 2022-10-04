@@ -8,7 +8,7 @@ export const Navbar = () => {
             <img src={process.env.PUBLIC_URL + '/img/logojpa.png'} alt="Logo" className='logo'/>
             <h1 className='pageTitle'>{`JAVIER\nPARDO\nARTE`}</h1>
             <div className='navbarList'>
-                <ul>
+                <ul className='ulList'>
                     <li>
                         <NavLink to="/" className={({ isActive }) => (isActive ? "active" : "")}>
                             Home

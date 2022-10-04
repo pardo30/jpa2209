@@ -4,7 +4,7 @@ import './Details.css'
 const Details = (props) => {
     return (
         <div className='detailContainer'>
-            <button className='detailButton' onClick={props.showDetails}>x</button>
+            <button className='detailButton' onClick={props.showDetails}>[x]</button>
             <div class="detailInfo">
             <div class='detailsTitle'> {props.title}</div>
             <div class='detailsPapel'>{props.papel}</div>
