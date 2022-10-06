@@ -35,12 +35,14 @@
 
 .footerExpand{
     position: relative;
-    display: inline-block;
-    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 .titleExpand {
     font-size: xx-large;
+    margin-right: 1em;
 }
 
 .infoExpand{

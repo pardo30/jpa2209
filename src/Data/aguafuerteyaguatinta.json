@@ -1,0 +1,272 @@
+[
+    {
+        "title":"Bodegón",
+        "imagen":"/img/grabados/aguafuerte/Bodegón.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Bodegón_min.jpg",
+        "matriz":"250 x 300 mm (Zinc)",
+        "papel":"370 x 470 mm (Hahnemühle)",
+        "posicion":8
+        },
+        {
+        "title":"Regando las calles",
+        "imagen":"/img/grabados/aguafuerte/Regando las calles.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Regando las calles_min.jpg",
+        "matriz":"200 x 200 mm (Zinc)",
+        "papel":"380 x 280 mm (Super Alfa)",
+        "posicion":24
+        },
+        {
+        "title":"Seiscientos sesenta",
+        "imagen":"/img/grabados/aguafuerte/Seiscientos sesenta.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Seiscientos sesenta_min.jpg",
+        "matriz":"200 x 200 mm (Zinc)",
+        "papel":"380 x 280 mm (Super Alfa)",
+        "posicion":14
+        },
+        {
+        "title":"Sueño con Madrid",
+        "imagen":"/img/grabados/aguafuerte/Sueño con Madrid.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Sueño con Madrid_min.jpg",
+        "matriz":"480 x 280 mm (Zinc)",
+        "papel":"480 x 280 mm (Super Alfa)",
+        "posicion":13
+        },
+        {
+        "title":"Desguace",
+        "imagen":"/img/grabados/aguafuerte/Desguace.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Desguace_min.jpg",
+        "matriz":"460 x 300 mm (Zinc)",
+        "papel":"600 x 550 mm (Super Alfa)",
+        "posicion":16
+        },
+        {
+        "title":"Guarda agujas",
+        "imagen":"/img/grabados/aguafuerte/Guarda agujas.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Guarda agujas_min.jpg",
+        "matriz":"280 x 220 mm (Zinc)",
+        "papel":"400 x 370 mm (Super Alfa)",
+        "otros1":"OBRA SELECCIONADA. Exposición EL ARTE DE LA TÉCNICA 2. Fundación Real Casa de la Moneda 2008",
+        "otros2":"PREMIO ESPECIAL Dirección General de Ferrocarriles. Certamen artístico 2005. Ministerio de Fomento",
+        "posicion":1
+        },
+        {
+        "title":"El arbol rojo",
+        "imagen":"/img/grabados/aguafuerte/El arbol rojo.jpg",
+        "miniatura":"/img/grabados/aguafuerte/El arbol rojo_min.jpg",
+        "matriz":"500 x 330 mm. 2ud. (Zinc) y 7 de madera irregulares",
+        "papel":"550 x 700 mm (Super Alfa)",
+        "otros1":"SELECCIONADO. Certamen de arte gráfico para jóvenes creadores 2006",
+        "posicion":3
+        },
+        {
+        "title":"Paseo por el parque",
+        "imagen":"/img/grabados/aguafuerte/Paseo por el parque.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Paseo por el parque_min.jpg",
+        "matriz":"280 x 73 mm (Zinc)",
+        "papel":"380 x 280 mm (Super Alfa)",
+        "posicion":6
+        },
+        {
+        "title":"Homenaje a Caillebotte (Los acuchilladores)",
+        "imagen":"/img/grabados/aguafuerte/Homenaje a Caillebotte (Los acuchilladores).jpg",
+        "miniatura":"/img/grabados/aguafuerte/Homenaje a Caillebotte (Los acuchilladores)_min.jpg",
+        "matriz":"310 x 190 mm (Zinc)",
+        "papel":"420 x 320 mm (Super Alfa)",
+        "posicion":5
+        },
+        {
+        "title":"Siesta",
+        "imagen":"/img/grabados/aguafuerte/Siesta.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Siesta_min.jpg",
+        "matriz":"150 x 100 mm (Zinc)",
+        "papel":"240 x 190 mm (Super Alfa)",
+        "posicion":19
+        },
+        {
+        "title":"Parla",
+        "imagen":"/img/grabados/aguafuerte/Parla.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Parla_min.jpg",
+        "matriz":"150 x 100 mm (Zinc)",
+        "papel":"240 x 190 mm (Super Alfa)",
+        "otros1":"Edición de 100 ejemplares y 10 HC, entregado como obsequio en la inauguración del nuevo tranvía de Parla",
+        "posicion":27
+        },
+        {
+        "title":"Jugando en la playa",
+        "imagen":"/img/grabados/aguafuerte/Jugando en la playa.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Jugando en la playa_min.jpg",
+        "matriz":"150 x 200 mm (Zinc)",
+        "papel":"280 x 380 mm (Super Alfa)",
+        "posicion":12
+        },
+        {
+        "title":"Desnudo",
+        "imagen":"/img/grabados/aguafuerte/Desnudo.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Desnudo_min.jpg",
+        "matriz":"155 x 190 mm (Zinc)",
+        "papel":"280 x 380 mm (Super Alfa)",
+        "posicion":31
+        },
+        {
+        "title":"Recogiendo las redes",
+        "imagen":"/img/grabados/aguafuerte/Recogiendo las redes.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Recogiendo las redes_min.jpg",
+        "matriz":"250 x 170 mm (Cobre)",
+        "papel":"280 x 380 mm (Super Alfa)",
+        "posicion":25
+        },
+        {
+        "title":"Cosmos",
+        "imagen":"/img/grabados/aguafuerte/Cosmos.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Cosmos_min.jpg",
+        "matriz":"190 x 160 mm (Zinc)",
+        "papel":"280 x 380 mm (Super Alfa)",
+        "posicion":30
+        },
+        {
+        "title":"Trujillo",
+        "imagen":"/img/grabados/aguafuerte/Trujillo.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Trujillo_min.jpg",
+        "matriz":"125 x 165 mm (Cobre)",
+        "papel":"280 x 380 mm (Super Alfa)",
+        "posicion":29
+        },
+        {
+        "title":"Capitel",
+        "imagen":"/img/grabados/aguafuerte/Capitel.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Capitel_min.jpg",
+        "matriz":"120 x 180 mm (Zinc)",
+        "papel":"280 x 380 mm (Super Alfa)",
+        "posicion":2
+        },
+        {
+        "title":"Parque El Capricho",
+        "imagen":"/img/grabados/aguafuerte/Parque El Capricho.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Parque El Capricho_min.jpg",
+        "matriz":"120 x 120 mm (Zinc)",
+        "papel":"220 x 280 mm (Super Alfa)",
+        "posicion":17
+        },
+        {
+        "title":"Horreos",
+        "imagen":"/img/grabados/aguafuerte/Horreos.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Horreos_min.jpg",
+        "matriz":"97 x 147 mm (Zinc)",
+        "papel":"190 x 280 mm (Super Alfa)",
+        "posicion":4
+        },
+        {
+        "title":"Chupa chups",
+        "imagen":"/img/grabados/aguafuerte/Chupa chups.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Chupa chups_min.jpg",
+        "matriz":"400 x 250 mm (Zinc)",
+        "papel":"550 x 450 mm (Super Alfa)",
+        "otros1":"SELECCIONADO. Certamen de arte gráfico para jóvenes creadores 2012",
+        "posicion":15
+        },
+        {
+        "title":"Estambul",
+        "imagen":"/img/grabados/aguafuerte/Estambul.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Estambul_min.jpg",
+        "matriz":"130 x 80 mm (Zinc)",
+        "papel":"190 x 230 mm (Super Alfa)",
+        "posicion":20
+        },
+        {
+        "title":"Pajaritas de papel",
+        "imagen":"/img/grabados/aguafuerte/Pajaritas de papel.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Pajaritas de papel_min.jpg",
+        "matriz":"250 x 220 mm (Zinc)",
+        "papel":"370 x 350 mm (Super Alfa)",
+        "posicion":32
+        },
+        {
+        "title":"Escaleras al Sacré Coeur",
+        "imagen":"/img/grabados/aguafuerte/Escaleras al Sacré Coeur.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Escaleras al Sacré Coeur_min.jpg",
+        "matriz":"120 x 200 mm (Zinc)",
+        "papel":"280 x 380 mm (Super Alfa)",
+        "posicion":9
+        },
+        {
+        "title":"Tormenta",
+        "imagen":"/img/grabados/aguafuerte/Tormenta.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Tormenta_min.jpg",
+        "matriz":"270 x 200 mm (Zinc)",
+        "papel":"360 x 440 mm (Super Alfa)",
+        "posicion":28
+        },
+        {
+        "title":"Homenaje a Van Gogh",
+        "imagen":"/img/grabados/aguafuerte/Homenaje a Van Gogh.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Homenaje a Van Gogh_min.jpg",
+        "matriz":"190 x 160 mm (Zinc)",
+        "papel":"280 x 380 mm (Super Alfa)",
+        "posicion":21
+        },
+        {
+        "title":"London Eye",
+        "imagen":"/img/grabados/aguafuerte/London Eye.jpg",
+        "miniatura":"/img/grabados/aguafuerte/London Eye_min.jpg",
+        "matriz":"230 x 300 mm (Zinc)",
+        "papel":"380 x 560 mm (Super Alfa)",
+        "posicion":11
+        },
+        {
+        "title":"Faro",
+        "imagen":"/img/grabados/aguafuerte/Faro.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Faro_min.jpg",
+        "matriz":"230 x 300 mm (Zinc)",
+        "papel":"380 x 520 mm (Super Alfa)",
+        "posicion":10
+        },
+        {
+        "title":"Pájaros bebiendo",
+        "imagen":"/img/grabados/aguafuerte/Pájaros bebiendo.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Pájaros bebiendo_min.jpg",
+        "matriz":"265 x 195 mm (Zinc)",
+        "papel":"380 x 350 mm (Super Alfa)",
+        "posicion":26
+        },
+        {
+        "title":"Croosing",
+        "imagen":"/img/grabados/aguafuerte/Croosing.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Croosing_min.jpg",
+        "matriz":"400 x 270 mm (Zinc)",
+        "papel":"400 x 450 mm (Super Alfa)",
+        "posicion":7
+        },
+        {
+        "title":"Retrato de Mari Carmen",
+        "imagen":"/img/grabados/aguafuerte/Retrato de Mari Carmen.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Retrato de Mari Carmen_min.jpg",
+        "matriz":"250 x 250 mm (Zinc)",
+        "papel":"330 x 430 mm (Super Alfa)",
+        "posicion":23
+        },
+        {
+        "title":"Velero",
+        "imagen":"/img/grabados/aguafuerte/Velero.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Velero_min.jpg",
+        "matriz":"250 x 400 mm (Zinc)",
+        "papel":"360 x 550 mm (Super Alfa)",
+        "otros1":"SELECCIONADO. Certamen de arte gráfico para jóvenes creadores 2022",
+        "posicion":33
+        },
+        {
+        "title":"Salón de maravillas",
+        "imagen":"/img/grabados/aguafuerte/Salón de maravillas.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Salón de maravillas_min.jpg",
+        "matriz":"400 x 500 mm (Zinc)",
+        "papel":"500 x 700 mm (Super Alfa)",
+        "posicion":18
+        },
+        {
+        "title":"Paisaje",
+        "imagen":"/img/grabados/aguafuerte/Retrato de Mari Carmen.jpg",
+        "miniatura":"/img/grabados/aguafuerte/Retrato de Mari Carmen_min.jpg",
+        "matriz":"120 x 120 mm (Zinc)",
+        "papel":"220 x 280 mm (Super Alfa)",
+        "posicion":22
+        }
+]

@@ -12,7 +12,8 @@ import Page from "./Components/Page";
 // Import JSON
 import acuarelas from "./Data/Acuarelas.json";
 import esmaltes from "./Data/Esmaltes.json";
-import felicitaciones from "./Data/Felicitaciones.json"
+import felicitaciones from "./Data/Felicitaciones.json";
+import aguafuerteyaguatinta from "./Data/aguafuerteyaguatinta.json";
 
 
 function App() {
@@ -30,6 +31,9 @@ function App() {
         <Route path="/esmaltes" element={<Page data={esmaltes} />} />
         <Route path="/felicitaciones" element={<Page data={felicitaciones} />} />
         <Route path="/about" element={<p>About</p>} />
+        <Route path="/grabados/aguafuerteyaguatinta" element={<Page data={aguafuerteyaguatinta} />} />
+        <Route path="/about" element={<p>About</p>} />
+
      </Routes>
      </div>
     </Router>

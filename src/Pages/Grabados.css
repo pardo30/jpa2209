@@ -1,0 +1,10 @@
+.grabados{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 210px) ;
+    justify-content: center;
+    justify-items: center;
+}
+
+.boxImg{
+    width: 300px;
+}

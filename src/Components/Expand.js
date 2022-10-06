@@ -11,9 +11,9 @@ const Expand = (props) => {
     <div className='popup'>
       <div className='popup_inner'>
         <div class="topExpand">
-          <button class="buttonExpand">[Prev]</button>
+          {/* <button class="buttonExpand">[Prev]</button> */}
           <button className="buttonExpand" onClick={props.showPopup}>[close]</button>
-          <button class="buttonExpand">[Next]</button>
+          {/* <button class="buttonExpand">[Next]</button> */}
         </div>
         <div className="imgExpand">
           <img
@@ -21,25 +21,28 @@ const Expand = (props) => {
             alt={"Miniatura " + props.data.title} />
           {showDetails
             ? <div class="details">
-                <Details 
-                  title={props.data.title}
-                  papel={props.data.papel}
-                  matriz={props.data.matriz}
-                  otros1={props.data.otros1}
-                  otros2={props.data.otros2}
-                  esmalte={props.data.esmalte}
-                  showDetails={()=>setShowDetails(!showDetails)}
-                  />
-              </div>
+              <Details
+                title={props.data.title}
+                papel={props.data.papel}
+                matriz={props.data.matriz}
+                otros1={props.data.otros1}
+                otros2={props.data.otros2}
+                esmalte={props.data.esmalte}
+                showDetails={() => setShowDetails(!showDetails)}
+              />
+            </div>
             : null
           }
         </div>
-        <div className="footerExpand">
-          <div className="titleExpand">{props.data.title}</div>
-          <div className="infoExpand" onClick={() => setShowDetails(!showDetails)}>
-            [ More info ]
+        {showDetails
+          ? null
+          : <div className="footerExpand">
+            <div className="titleExpand">{props.data.title}</div>
+            <div className="infoExpand" onClick={() => setShowDetails(!showDetails)}>
+              [ + ]
+            </div>
           </div>
-        </div>
+        }
       </div>
     </div>
   )
