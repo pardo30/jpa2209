@@ -1,0 +1,131 @@
+[
+    {
+        "title":"Tormenta",
+        "imagen":"/img/grabados/xilografia/Tormenta.jpg",
+        "miniatura":"/img/grabados/xilografia/Tormenta_min.jpg",
+        "matriz":"230 x 230 mm (Madera contrachapada)",
+        "papel":"360 x 460 mm (Super Alfa)",
+        "otros1":"Estampado sobre pan de oro",
+        "posicion":12
+        },
+        {
+        "title":"Sin titulo II",
+        "imagen":"/img/grabados/xilografia/st.jpg",
+        "miniatura":"/img/grabados/xilografia/st_min.jpg",
+        "matriz":"230 x 230 mm (Madera contrachapada)",
+        "papel":"350 x 390 mm (Super Alfa)",
+        "otros1":"Estampado sobre pan de oro",
+        "posicion":13
+        },
+        {
+        "title":"La siesta",
+        "imagen":"/img/grabados/xilografia/La siesta.jpg",
+        "miniatura":"/img/grabados/xilografia/La siesta_min.jpg",
+        "matriz":"370 x 265 mm (Madera contrachapada) 4 ud.",
+        "papel":"470 x 390 mm (Super Alfa)",
+        "otros1":"TECNICA: Tetracomia",
+        "posicion":14
+        },
+        {
+        "title":"Iceberg",
+        "imagen":"/img/grabados/xilografia/Iceberg.jpg",
+        "miniatura":"/img/grabados/xilografia/Iceberg_min.jpg",
+        "matriz":"200 x 585 mm, 200 x 535 mm y 200 x 485 mm. (Madera contrachapada)",
+        "papel":"560 x 710 mm (Super Alfa) y papel croquis. Collage",
+        "otros1":"SELECCIONADO. XI Certamen de grabado José Caballero. Villa de Las Rozas 2010",
+        "posicion":4
+        },
+        {
+        "title":"Regreso",
+        "imagen":"/img/grabados/xilografia/Regreso.jpg",
+        "miniatura":"/img/grabados/xilografia/Regreso_min.jpg",
+        "matriz":"390 x 580 mm. (Madera contrachapada)",
+        "papel":"540 x 750 mm y 500 x 660 mm recortado y siluetas recortadas (Super Alfa)",
+        "otros1":"MENCIÓN DE HONOR. 1 Certamen MUFART. Artes Plásticas para el siglo XXI. Ministerio de la Presidencia (Muface) 2009",
+        "posicion":2
+        },
+        {
+        "title":"Sin titulo I",
+        "imagen":"/img/grabados/xilografia/stII.jpg",
+        "miniatura":"/img/grabados/xilografia/stII_min.jpg",
+        "matriz":"560 x 560 mm. (Madera contrachapada) 2 ud.",
+        "papel":"680 x 850 mm (Super Alfa)",
+        "otros1":"SELECCIONADO. Certamen de arte gráfico para jóvenes creadores 2007",
+        "posicion":1
+        },
+        {
+        "title":"Maquina",
+        "imagen":"/img/grabados/xilografia/Maquina.jpg",
+        "miniatura":"/img/grabados/xilografia/Maquina_min.jpg",
+        "matriz":"520 x 420 mm. (Madera contrachapada) 4 ud.",
+        "papel":"700 x 500 mm (Super Alfa) 2 unidades solapadas",
+        "posicion":9
+        },
+        {
+        "title":"Fisgones",
+        "imagen":"/img/grabados/xilografia/Fisgones.jpg",
+        "miniatura":"/img/grabados/xilografia/Fisgones_min.jpg",
+        "matriz":"530 x 450 mm. (Madera contrachapada) 2 ud.",
+        "papel":"760 x 560 mm (Super Alfa)",
+        "posicion":8
+        },
+        {
+        "title":"Horizonte",
+        "imagen":"/img/grabados/xilografia/Horizonte.jpg",
+        "miniatura":"/img/grabados/xilografia/Horizonte_min.jpg",
+        "matriz":"530 x 190 mm. (Madera contrachapada)",
+        "papel":"530 x 380 mm (Super Alfa)",
+        "posicion":11
+        },
+        {
+        "title":"Lectura en el metro",
+        "imagen":"/img/grabados/xilografia/Lectura en el metro.jpg",
+        "miniatura":"/img/grabados/xilografia/Lectura en el metro_min.jpg",
+        "matriz":"270 x 520 mm. (Madera contrachapada) 3 ud.",
+        "papel":"400 x 680 mm (Super Alfa) y collage",
+        "posicion":10
+        },
+        {
+        "title":"Paseo",
+        "imagen":"/img/grabados/xilografia/Paseo.jpg",
+        "miniatura":"/img/grabados/xilografia/Paseo_min.jpg",
+        "matriz":"400 x 500 mm. (Madera contrachapada) 2 ud.",
+        "papel":"540 x 750 mm (Super Alfa)",
+        "posicion":3
+        },
+        {
+        "title":"Travel-Bag",
+        "imagen":"/img/grabados/xilografia/Travel-Bag.jpg",
+        "miniatura":"/img/grabados/xilografia/Travel-Bag_min.jpg",
+        "matriz":"Matriz: 700 x 400 mm. (Madera contrachapada) 2 ud.",
+        "papel":"800 x 600 mm (Super Alfa)",
+        "otros1":"SELECCIONADO. Certamen de arte gráfico para jóvenes creadores 2011",
+        "otros2":"Este grabado se puede recortar para convertirlo en una bolsa de papel",
+        "posicion":5
+        },
+        {
+        "title":"Chupa chups",
+        "imagen":"/img/grabados/xilografia/Chupa chups.jpg",
+        "miniatura":"/img/grabados/xilografia/Chupa chups_min.jpg",
+        "matriz":"500 x 600 mm. (Madera DM)",
+        "papel":"500 x 700 mm (Super Alfa)",
+        "posicion":6
+        },
+        {
+        "title":"Chapas",
+        "imagen":"/img/grabados/xilografia/Chapas.jpg",
+        "miniatura":"/img/grabados/xilografia/Chapas_min.jpg",
+        "matriz":"500 x 600 mm. (Madera DM)",
+        "papel":"500 x 700 mm (Super Alfa)",
+        "posicion":7
+        },
+        {
+        "title":"Pajarita",
+        "imagen":"/img/grabados/xilografia/Pajarita.jpg",
+        "miniatura":"/img/grabados/xilografia/Pajarita_min.jpg",
+        "matriz":"560 x 400 mm. (Madera contrachapada)",
+        "papel":"560 x 560 mm (Super Alfa)",
+        "posicion":15
+        }        
+            
+]

@@ -14,6 +14,11 @@ import acuarelas from "./Data/Acuarelas.json";
 import esmaltes from "./Data/Esmaltes.json";
 import felicitaciones from "./Data/Felicitaciones.json";
 import aguafuerteyaguatinta from "./Data/aguafuerteyaguatinta.json";
+import intrusos from "./Data/intrusos.json";
+import carburundum from "./Data/carburundum.json";
+import maneranegra from "./Data/maneranegra.json";
+import xilografias from "./Data/xilografia.json";
+
 
 
 function App() {
@@ -29,11 +34,13 @@ function App() {
         <Route path="/grabados" element={<Grabados />} />
         <Route path="/acuarelas" element={<Page data={acuarelas} />} />
         <Route path="/esmaltes" element={<Page data={esmaltes} />} />
-        <Route path="/felicitaciones" element={<Page data={felicitaciones} />} />
         <Route path="/about" element={<p>About</p>} />
         <Route path="/grabados/aguafuerteyaguatinta" element={<Page data={aguafuerteyaguatinta} />} />
-        <Route path="/about" element={<p>About</p>} />
-
+        <Route path="/grabados/intrusos" element={<Page data={intrusos} />} />
+        <Route path="/grabados/carburundum" element={<Page data={carburundum} />} />
+        <Route path="/grabados/maneranegra" element={<Page data={maneranegra} />} />
+        <Route path="/grabados/xilografias" element={<Page data={xilografias} />} />
+        <Route path="/grabados/felicitaciones" element={<Page data={felicitaciones} />} />
      </Routes>
      </div>
     </Router>

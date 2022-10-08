@@ -1,0 +1,83 @@
+[
+    {
+        "title":"Baño",
+        "imagen":"/img/grabados/manera negra/Baño.jpg",
+        "miniatura":"/img/grabados/manera negra/Baño_min.jpg",
+        "matriz":"100 x 100 mm (Zinc)",
+        "papel":"Papel:210 x 280 mm (Super Alfa)",
+        "posicion":6
+        },
+        {
+        "title":"Saludo",
+        "imagen":"/img/grabados/manera negra/Saludo.jpg",
+        "miniatura":"/img/grabados/manera negra/Saludo_min.jpg",
+        "matriz":"200 x 150 mm (Zinc)",
+        "papel":"Papel:390 x 270 mm (Super Alfa)",
+        "posicion":5
+        },
+        {
+        "title":"Sueño",
+        "imagen":"/img/grabados/manera negra/Sueño.jpg",
+        "miniatura":"/img/grabados/manera negra/Sueño_min.jpg",
+        "matriz":"120 x 76 mm (Zinc)",
+        "papel":"Papel:220 x 280 mm (Super Alfa)",
+        "posicion":1
+        },
+        {
+        "title":"Grapadora",
+        "imagen":"/img/grabados/manera negra/Grapadora.jpg",
+        "miniatura":"/img/grabados/manera negra/Grapadora_min.jpg",
+        "matriz":"60 x 240 mm (Zinc)",
+        "papel":"Papel:110 x 370 mm (Super Alfa)",
+        "posicion":8
+        },
+        {
+        "title":"Lata de cerveza",
+        "imagen":"/img/grabados/manera negra/Lata de cerveza.jpg",
+        "miniatura":"/img/grabados/manera negra/Lata de cerveza_min.jpg",
+        "matriz":"200 x 150 mm (Zinc)",
+        "papel":"Papel:280 x 380 mm (Super Alfa)",
+        "posicion":9
+        },
+        {
+        "title":"Venus",
+        "imagen":"/img/grabados/manera negra/Venus.jpg",
+        "miniatura":"/img/grabados/manera negra/Venus_min.jpg",
+        "matriz":"150 x 100 mm (Zinc)",
+        "papel":"Papel:250 x 200 mm (Super Alfa)",
+        "posicion":2
+        },
+        {
+        "title":"Calas",
+        "imagen":"/img/grabados/manera negra/Calas.jpg",
+        "miniatura":"/img/grabados/manera negra/Calas_min.jpg",
+        "matriz":"100 x 200 mm (Zinc)",
+        "papel":"Papel:200 x 330 mm (Super Alfa)",
+        "posicion":3
+        },
+        {
+        "title":"Escorzo",
+        "imagen":"/img/grabados/manera negra/Escorzo.jpg",
+        "miniatura":"/img/grabados/manera negra/Escorzo_min.jpg",
+        "matriz":"100 x 150 mm (Zinc)",
+        "papel":"Papel:200 x 330 mm (Super Alfa)",
+        "posicion":4
+        },
+        {
+        "title":"Encendiendo una pipa",
+        "imagen":"/img/grabados/manera negra/Encendiendo una pipa.jpg",
+        "miniatura":"/img/grabados/manera negra/Encendiendo una pipa_min.jpg",
+        "matriz":"120 x 76 mm (Zinc)",
+        "papel":"Papel:280 x 380 mm (Super Alfa)",
+        "posicion":7
+        },
+        {
+        "title":"Bodegón de cristal",
+        "imagen":"/img/grabados/manera negra/Bodegón de cristal.jpg",
+        "miniatura":"/img/grabados/manera negra/Bodegón de cristal_min.jpg",
+        "matriz":"170 x 120 mm (Zinc)",
+        "papel":"Papel:270 x 220 mm (Super Alfa)",
+        "posicion":10
+        }
+
+]

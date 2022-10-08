@@ -5,13 +5,14 @@ import './Grabados.css'
 
 const Grabados = () => {
     return (
-        <div class="grabados">
+        <div className="grabados">
+            <div className="grabdosContainer">
             <div>
                 <NavLink to="/grabados/aguafuerteyaguatinta" className={({ isActive }) => (isActive ? "active" : "")}>
                     <div className="boxGrabados">
                         <img 
                         className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles.jpg"} 
+                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles_min.jpg"} 
                         alt={"Miniatura Regando las calles"}
                         />
                         <div className="boxText">Aguafuerte y Aguatinta</div>
@@ -19,76 +20,65 @@ const Grabados = () => {
                 </NavLink>
             </div>
             <div>
-                <NavLink to="/grabados/aguafuerteyaguatinta" className={({ isActive }) => (isActive ? "active" : "")}>
+                <NavLink to="/grabados/intrusos" className={({ isActive }) => (isActive ? "active" : "")}>
                     <div className="boxGrabados">
                         <img 
                         className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles.jpg"} 
+                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles_min.jpg"} 
                         alt={"Miniatura Regando las calles"}
                         />
-                        <div className="boxText">Aguafuerte y Aguatinta</div>
+                        <div className="boxText">Serie Intrusos</div>
                     </div>
                 </NavLink>
             </div>
             <div>
-                <NavLink to="/grabados/aguafuerteyaguatinta" className={({ isActive }) => (isActive ? "active" : "")}>
+                <NavLink to="/grabados/carburundum" className={({ isActive }) => (isActive ? "active" : "")}>
                     <div className="boxGrabados">
                         <img 
                         className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles.jpg"} 
+                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles_min.jpg"} 
                         alt={"Miniatura Regando las calles"}
                         />
-                        <div className="boxText">Aguafuerte y Aguatinta</div>
+                        <div className="boxText">Carburundum</div>
                     </div>
                 </NavLink>
             </div>
             <div>
-                <NavLink to="/grabados/aguafuerteyaguatinta" className={({ isActive }) => (isActive ? "active" : "")}>
+                <NavLink to="/grabados/maneranegra" className={({ isActive }) => (isActive ? "active" : "")}>
                     <div className="boxGrabados">
                         <img 
                         className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles.jpg"} 
+                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles_min.jpg"} 
                         alt={"Miniatura Regando las calles"}
                         />
-                        <div className="boxText">Aguafuerte y Aguatinta</div>
+                        <div className="boxText">Manera negra</div>
                     </div>
                 </NavLink>
             </div>
             <div>
-                <NavLink to="/grabados/aguafuerteyaguatinta" className={({ isActive }) => (isActive ? "active" : "")}>
+                <NavLink to="/grabados/xilografias" className={({ isActive }) => (isActive ? "active" : "")}>
                     <div className="boxGrabados">
                         <img 
                         className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles.jpg"} 
+                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles_min.jpg"} 
                         alt={"Miniatura Regando las calles"}
                         />
-                        <div className="boxText">Aguafuerte y Aguatinta</div>
+                        <div className="boxText">Xilografías</div>
                     </div>
                 </NavLink>
             </div>
             <div>
-                <NavLink to="/grabados/aguafuerteyaguatinta" className={({ isActive }) => (isActive ? "active" : "")}>
+                <NavLink to="/grabados/felicitaciones" className={({ isActive }) => (isActive ? "active" : "")}>
                     <div className="boxGrabados">
                         <img 
                         className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles.jpg"} 
+                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles_min.jpg"} 
                         alt={"Miniatura Regando las calles"}
                         />
-                        <div className="boxText">Aguafuerte y Aguatinta</div>
+                        <div className="boxText">Felicitaciones navideñas</div>
                     </div>
                 </NavLink>
             </div>
-            <div>
-                <NavLink to="/grabados/aguafuerteyaguatinta" className={({ isActive }) => (isActive ? "active" : "")}>
-                    <div className="boxGrabados">
-                        <img 
-                        className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles.jpg"} 
-                        alt={"Miniatura Regando las calles"}
-                        />
-                        <div className="boxText">Aguafuerte y Aguatinta</div>
-                    </div>
-                </NavLink>
             </div>
         </div>
     )

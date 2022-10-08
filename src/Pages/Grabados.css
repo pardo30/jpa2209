@@ -1,10 +1,17 @@
 .grabados{
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grabdosContainer{
     display: grid;
-    grid-template-columns: repeat(auto-fill, 210px) ;
+    grid-template-columns: repeat(3, 300px);
     justify-content: center;
     justify-items: center;
 }
 
 .boxImg{
-    width: 300px;
+    width: 280px;
 }
