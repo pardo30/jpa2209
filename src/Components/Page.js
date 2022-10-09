@@ -4,6 +4,8 @@ import './Page.css'
 
 const Page = (props) => {
   return (
+    <div class="pageBox">
+            <div className='technique'>{props.technique}</div>
     <div className='page'>
             {props.data.map((data,key) => (
             <div className='pageMiniature' key={key}>
@@ -11,16 +13,7 @@ const Page = (props) => {
                 {/* <h2>{data.title}</h2> */}
             </div>
             ))}
-        {/* <div>
-            {Data.map((data, key) => {
-                return (
-                    <div key={key}>
-                        <p>{data.title}</p>
-                    </div>
-                );
-            })}
-
-        </div> */}
+    </div>
     </div>
   )
 }

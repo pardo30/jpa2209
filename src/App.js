@@ -32,15 +32,15 @@ function App() {
         <Routes>
         <Route path="/" element={<h1>Hello world</h1>} />
         <Route path="/grabados" element={<Grabados />} />
-        <Route path="/acuarelas" element={<Page data={acuarelas} />} />
-        <Route path="/esmaltes" element={<Page data={esmaltes} />} />
+        <Route path="/acuarelas" element={<Page data={acuarelas} technique='ACUARELAS' />} />
+        <Route path="/esmaltes" element={<Page data={esmaltes} technique='ESMALTES'/>} />
         <Route path="/about" element={<p>About</p>} />
-        <Route path="/grabados/aguafuerteyaguatinta" element={<Page data={aguafuerteyaguatinta} />} />
-        <Route path="/grabados/intrusos" element={<Page data={intrusos} />} />
-        <Route path="/grabados/carburundum" element={<Page data={carburundum} />} />
-        <Route path="/grabados/maneranegra" element={<Page data={maneranegra} />} />
-        <Route path="/grabados/xilografias" element={<Page data={xilografias} />} />
-        <Route path="/grabados/felicitaciones" element={<Page data={felicitaciones} />} />
+        <Route path="/grabados/aguafuerteyaguatinta" element={<Page data={aguafuerteyaguatinta} technique='AGUAFUERTE Y AGUATINTA'/>} />
+        <Route path="/grabados/intrusos" element={<Page data={intrusos} technique='SERIE INTRUSOS'/>} />
+        <Route path="/grabados/carburundum" element={<Page data={carburundum} technique='CARBURUNDUM'/>} />
+        <Route path="/grabados/maneranegra" element={<Page data={maneranegra} technique='MANERA NEGRA'/>} />
+        <Route path="/grabados/xilografias" element={<Page data={xilografias} technique='XILOGRAFÍAS'/>} />
+        <Route path="/grabados/felicitaciones" element={<Page data={felicitaciones} technique='FELICITACIONES NAVIDEÑAS'/>} />
      </Routes>
      </div>
     </Router>

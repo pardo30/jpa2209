@@ -1,40 +1,41 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
+import './NavbarGrabados.css'
 
 const NavbarGrabados = () => {
     return (
         <div>
             <ul className="ulGrabados">
-                <li className="ligrabados">
-                    <NavLink to="/grabados/aguafuerteyaguatinta" className={({ isActive }) => (isActive ? "active" : "")}>
-                        Aguafuerte y aguatinta
+                    <NavLink to="/grabados/aguafuerteyaguatinta" className={({ isActive }) => (isActive ? "activeGrab" : "")}>
+                <div className="ligrabados">
+                        <div>Aguafuerte y aguatinta</div>
+                </div>
                     </NavLink>
-                </li>
-                <li className="ligrabados">
-                    <NavLink to="/grabados/intrusos" className={({ isActive }) => (isActive ? "active" : "")}>
-                        Seríe intrusos
+                    <NavLink to="/grabados/intrusos" className={({ isActive }) => (isActive ? "activeGrab" : "")}>
+                <div className="ligrabados">
+                        <div>Seríe intrusos</div>
+                </div>
                     </NavLink>
-                </li>
-                <li className="ligrabados">
-                    <NavLink to="/grabados/carburundum" className={({ isActive }) => (isActive ? "active" : "")}>
-                        Carburundum
+                    <NavLink to="/grabados/carburundum" className={({ isActive }) => (isActive ? "activeGrab" : "")}>
+                <div className="ligrabados">
+                        <div>Carburundum</div>
+                </div>
                     </NavLink>
-                </li>
-                <li className="ligrabados">
-                    <NavLink to="/grabados/maneranegra" className={({ isActive }) => (isActive ? "active" : "")}>
-                        Manera negra
+                    <NavLink to="/grabados/maneranegra" className={({ isActive }) => (isActive ? "activeGrab" : "")}>
+                <div className="ligrabados">
+                        <div>Manera negra</div>
+                </div>
                     </NavLink>
-                </li>
-                <li className="ligrabados">
-                    <NavLink to="/grabados/xilografias" className={({ isActive }) => (isActive ? "active" : "")}>
-                        Xilografías
+                    <NavLink to="/grabados/xilografias" className={({ isActive }) => (isActive ? "activeGrab" : "")}>
+                <div className="ligrabados">
+                        <div>Xilografías</div>
+                </div>
                     </NavLink>
-                </li>
-                <li className="ligrabados">
-                    <NavLink to="/grabados/felicitaciones" className={({ isActive }) => (isActive ? "active" : "")}>
-                        Felicitaciones navideñas
+                    <NavLink to="/grabados/felicitaciones" className={({ isActive }) => (isActive ? "activeGrab" : "")}>
+                <div className="ligrabados">
+                        <div>Felicitaciones navideñas</div>
+                </div>
                     </NavLink>
-                </li>
             </ul>
         </div>
     )
