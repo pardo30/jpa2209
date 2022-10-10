@@ -7,7 +7,8 @@
     right: 0;
     bottom: 0;
     margin: auto;
-    background-color: rgba(255,255,255,0.95);
+    background-color: rgba(0, 0, 0, 0.95);
+    color: #fff;
 }
 
 .popup_inner {
@@ -54,7 +55,8 @@
     font-weight: bold;
 }
 
-.details{
+.details{ 
+    color: #000;
     position: absolute;
     bottom: 10vh;
     left: 50%;
@@ -63,9 +65,9 @@
 
 .buttonExpand{
     margin: 0.5em;
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(255, 255, 255,0);
     border: none;
-    color: #000;
+    color: #fff;
     padding: 5px;
     text-align: center;
     text-decoration: none;

@@ -25,8 +25,8 @@
         },
         {
         "title":"Grapadora",
-        "imagen":"/img/grabados/manera negra/Grapadora.jpg",
-        "miniatura":"/img/grabados/manera negra/Grapadora_min.jpg",
+        "imagen":"/img/grabados/manera negra/grapadora.jpg",
+        "miniatura":"/img/grabados/manera negra/grapadora_min.jpg",
         "matriz":"60 x 240 mm (Zinc)",
         "papel":"Papel:110 x 370 mm (Super Alfa)",
         "posicion":8
@@ -41,8 +41,8 @@
         },
         {
         "title":"Venus",
-        "imagen":"/img/grabados/manera negra/Venus.jpg",
-        "miniatura":"/img/grabados/manera negra/Venus_min.jpg",
+        "imagen":"/img/grabados/manera negra/venus.jpg",
+        "miniatura":"/img/grabados/manera negra/venus_min.jpg",
         "matriz":"150 x 100 mm (Zinc)",
         "papel":"Papel:250 x 200 mm (Super Alfa)",
         "posicion":2

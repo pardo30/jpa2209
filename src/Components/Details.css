@@ -1,62 +1,87 @@
-.detailContainer{
-    background-color: rgba(255,255,255,0.8);
-    display: flex;
-    flex-direction: column;
-    justify-content: right;
-    align-items: flex-end;
-    animation: fadeIn 1s;
-    -webkit-animation: fadeIn 1s;
-    -moz-animation: fadeIn 1s;
-    -o-animation: fadeIn 1s;
-    -ms-animation: fadeIn 1s;
+.detailContainer {
+  background-color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  flex-direction: column;
+  justify-content: right;
+  align-items: flex-end;
+  animation: fadeIn 1s;
+  -webkit-animation: fadeIn 1s;
+  -moz-animation: fadeIn 1s;
+  -o-animation: fadeIn 1s;
+  -ms-animation: fadeIn 1s;
 }
 
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-  
-  @-moz-keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-  
-  @-webkit-keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-  
-  @-o-keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-  
-  @-ms-keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
   }
 
-  .detailButton{
-    margin: 0.5em;
-    background-color: rgba(0, 0, 0, 0);
-    border: none;
-    color: #000;
-    padding: 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer;
+  100% {
+    opacity: 1;
+  }
 }
 
-.detailButton:hover{
-    font-weight: bold;
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }
 
-.detailInfo{
-padding: 1em;
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }
 
-.detailsTitle{
-    font-size: 2rem;
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.detailButton {
+  margin: 0.5em;
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  color: #000;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.detailButton:hover {
+  font-weight: bold;
+}
+
+.detailInfo {
+  padding: 0.5em;
+}
+
+.detailsTitle {
+  font-size: 2rem;
 }

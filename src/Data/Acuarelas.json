@@ -99,8 +99,8 @@
         },
         {
         "title":"Detalle del cuadro Diana después del baño de Francois Boucher",
-        "imagen":"/img/acuarelas/Detalle del cuadro Diana después del baño de Francois Boucher.jpg",
-        "miniatura":"/img/acuarelas/Detalle del cuadro Diana después del baño de Francois Boucher_min.jpg",
+        "imagen":"/img/acuarelas/Diana.jpg",
+        "miniatura":"/img/acuarelas/Diana_min.jpg",
         "papel": "410 x 310 mm (Saunders Waterford)",
         "posicion":7
         },
@@ -127,8 +127,8 @@
         },
         {
         "title":"Guiando las ocas",
-        "imagen":"/img/acuarelas/Guiando a las ocas.jpg",
-        "miniatura":"/img/acuarelas/Guiando a imagenlas ocas_min.jpg",
+        "imagen":"/img/acuarelas/Ocas.jpg",
+        "miniatura":"/img/acuarelas/Ocas_min.jpg",
         "papel": "410 x 310 mm (Saunders Waterford)",
         "posicion":8
         },
@@ -310,7 +310,7 @@
         {
         "title":"Barca",
         "imagen":"/img/acuarelas/Barca.jpg",
-        "miniatura":"/img/acuarelas/Barcar_min.jpg",
+        "miniatura":"/img/acuarelas/Barca_min.jpg",
         "papel": "410 x 310 mm (Saunders Waterford)",
         "posicion":46
         },

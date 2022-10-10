@@ -5,8 +5,8 @@ import './Page.css'
 const Page = (props) => {
   return (
     <div class="pageBox">
-            <div className='technique'>{props.technique}</div>
     <div className='page'>
+            <div className='technique'>{props.technique}</div>
             {props.data.map((data,key) => (
             <div className='pageMiniature' key={key}>
                 <Miniature data={data}/>
