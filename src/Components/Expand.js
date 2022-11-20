@@ -12,7 +12,7 @@ const Expand = (props) => {
       <div className='popup_inner'>
         <div class="topExpand">
           {/* <button class="buttonExpand">[Prev]</button> */}
-          <button className="buttonExpand" onClick={props.showPopup}>[close]</button>
+          <button className="buttonExpand" onClick={props.showPopup}>[X]</button>
           {/* <button class="buttonExpand">[Next]</button> */}
         </div>
         <div className="imgExpand">
