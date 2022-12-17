@@ -4,7 +4,9 @@ import './Details.css'
 const Details = (props) => {
     return (
         <div className='detailContainer'>
-            <button className='detailButton' onClick={props.showDetails}>[x]</button>
+            <button className='detailButton' onClick={props.showDetails}>
+            <img src={process.env.PUBLIC_URL + '/img/close_black.png'} alt="Close" className='closeBlack' />
+            </button>
             <div class="detailInfo">
             <div class='detailsTitle'> {props.title}</div>
             <div class='detailsPapel'>{props.papel}</div>

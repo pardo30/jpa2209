@@ -9,7 +9,7 @@ export const Navbar = () => {
     //const [showNavbarGrabados, setShowNavbarGrabados] = useState(false)
 
     return (
-        <div className='navbar'>
+        <div className='navbarbase'>
             <img src={process.env.PUBLIC_URL + '/img/logojpa.png'} alt="Logo" className='logo' />
             <h1 className='pageTitle'>{`JAVIER\nPARDO\nARTE`}</h1>
             <div className='navbarList'>

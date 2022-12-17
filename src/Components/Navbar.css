@@ -1,6 +1,7 @@
-.navbar {
-    height: 95vh;
-    display: flex;
+@media screen and (min-width: 720px) {
+    .navbarbase {
+        height: 95vh;
+        display: flex;
     flex-direction: column;
     justify-content: center;
     margin-right: 5%;
@@ -17,7 +18,40 @@
     white-space: pre-wrap;
     text-align: right;
 }
-
+}
+@media screen and (max-width: 720px) {
+    .navbarMobile {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-right: 5%;
+    }
+    .navbarMobileUp{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .logo {
+        width: 100px;
+        height: 100px;
+    }
+    .menu{
+        margin: 10px 10px 10px 100px;
+        width: 40px;
+        height: 40px;
+    }
+    .nav-elements {
+        margin-right: 10%;
+    }
+    
+    .pageTitleMobile{
+        width: 200px;
+        align-items: center;
+        font-size: 1.5em;
+    }
+}
 a{
     text-decoration: none;
 }

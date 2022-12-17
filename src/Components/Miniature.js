@@ -10,11 +10,12 @@ const Miniature = (props) => {
     <div>
     <div onClick={()=>setShowPopup(!showPopup)}>
         <img 
-          classname="imgMiniatura" 
+          className='imgMiniatura' 
           src={process.env.PUBLIC_URL+props.data.miniatura} 
           alt={"Miniatura "+ props.data.title}
-          width = "200" 
-          height = "200" />
+          // width = "200" 
+          // height = "200" 
+          />
     </div>
     {showPopup 
             ? <Expand data={props.data} showPopup={()=>setShowPopup(!showPopup)}/>

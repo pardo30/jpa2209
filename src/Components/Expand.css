@@ -20,19 +20,67 @@
     /* left: 20%;
     right: 20%;
     top: 2vh; */
-
     height: 100vh;
-
+    
     border-radius: 15px;
-
+    
     margin: 0;
     padding: 10px;
 }
 
-.imgExpand img{
-    max-height: 80vh;
+@media screen and (max-width: 720px) {
+    .popup_inner{
+        max-height: 100vh;
+    }
+    .imgExpand img{
+        max-width: 90%;
+        margin-left: 5%;
+        margin-left: 5%;
+    }
+    .buttonExpand{
+        width: 100vw;
+        background-color: rgba(255, 255, 255,0);
+        border: none;
+        color: #fff;
+        text-align: right;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 1rem;
+        cursor: pointer
+    }
+}
+@media screen and (min-width: 720px) {
+    .imgExpand img{
+        max-height: 70vh;
+    }
+    .buttonExpand{
+        width: 100vw;
+        background-color: rgba(255, 255, 255,0);
+        border: none;
+        color: #fff;
+        padding-right: 55px;
+        text-align: right;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 1rem;
+        cursor: pointer
+    }
 }
 
+.close{
+    width: 40px;
+    height: 40px;
+}
+
+.info{
+    width: 40px;
+    height: 40px;
+}
+
+.closeBlack{
+    width: 30px;
+    height: 30px;  
+}
 
 .footerExpand{
     position: relative;
@@ -63,18 +111,7 @@
     transform: translate(-50%, -50%);
 }
 
-.buttonExpand{
-    margin: 0.5em;
-    background-color: rgba(255, 255, 255,0);
-    border: none;
-    color: #fff;
-    padding: 5px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 1rem;
-    cursor: pointer
-}
+
 
 .buttonExpand:hover{
     font-weight: bold;

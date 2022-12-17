@@ -12,7 +12,9 @@ const Expand = (props) => {
       <div className='popup_inner'>
         <div class="topExpand">
           {/* <button class="buttonExpand">[Prev]</button> */}
-          <button className="buttonExpand" onClick={props.showPopup}>[X]</button>
+          <button className="buttonExpand" onClick={props.showPopup}>
+          <img src={process.env.PUBLIC_URL + '/img/close.png'} alt="Close" className='close' />
+          </button>
           {/* <button class="buttonExpand">[Next]</button> */}
         </div>
         <div className="imgExpand">
@@ -39,7 +41,7 @@ const Expand = (props) => {
           : <div className="footerExpand">
             <div className="titleExpand">{props.data.title}</div>
             <div className="infoExpand" onClick={() => setShowDetails(!showDetails)}>
-              [ + ]
+            <img src={process.env.PUBLIC_URL + '/img/info.png'} alt="Info" className='info' />
             </div>
           </div>
         }

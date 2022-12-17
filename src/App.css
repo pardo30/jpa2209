@@ -1,3 +1,14 @@
+@media screen and (max-width: 720px) {
+.App {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+}
+}
+@media screen and (min-width: 721px) {
 .App {
   margin-left: auto;
   margin-right: auto;
@@ -15,6 +26,7 @@
   width: 70%;
 }
 
-.active{
+/* .active{
   color: red;
+} */
 }
