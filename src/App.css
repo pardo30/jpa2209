@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+:root{
+  font-family:'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+}
 @media screen and (max-width: 720px) {
 .App {
   margin-left: auto;
@@ -19,7 +23,7 @@
 }
 
 .AppNavbar {
-  width: 20%;
+  width: 15%;
 }
 
 .AppPages {

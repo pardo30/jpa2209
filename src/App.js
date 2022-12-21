@@ -20,6 +20,7 @@ import carburundum from "./Data/carburundum.json";
 import maneranegra from "./Data/maneranegra.json";
 import xilografias from "./Data/xilografia.json";
 import { useState } from "react";
+import About from "./Pages/About";
 //import mediaQueries from "./Components/mediaQueries";
 
 //const isDesktop = mediaQueries('(min-width: 720px)');
@@ -48,7 +49,7 @@ function App() {
             <Route path="/grabados" element={<Grabados />} />
             <Route path="/acuarelas" element={<Page data={acuarelas} technique='ACUARELAS' />} />
             <Route path="/esmaltes" element={<Page data={esmaltes} technique='ESMALTES' />} />
-            <Route path="/about" element={<p>About</p>} />
+            <Route path="/about" element={<About />} />
             <Route path="/grabados/aguafuerteyaguatinta" element={<Page data={aguafuerteyaguatinta} technique='AGUAFUERTE Y AGUATINTA' />} />
             <Route path="/grabados/intrusos" element={<Page data={intrusos} technique='SERIE INTRUSOS' />} />
             <Route path="/grabados/carburundum" element={<Page data={carburundum} technique='CARBURUNDUM' />} />

@@ -1,17 +1,35 @@
-.grabados{
-    height: 95vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
+@media screen and (min-width: 720px) {
+    .grabados{
+        height: 95vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 .grabdosContainer{
     display: grid;
     grid-template-columns: repeat(3, 300px);
     justify-content: center;
     justify-items: center;
 }
-
+}
+@media screen and (max-width: 720px) {
+    .grabados{
+        /* height: 95vh; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .grabdosContainer{
+        display: grid;
+        grid-template-columns: repeat(1, 300px);
+        justify-content: center;
+        justify-items: center;
+    }
+    }
 .boxImg{
     width: 280px;
+}
+.boxText{
+    font-size: large;
 }

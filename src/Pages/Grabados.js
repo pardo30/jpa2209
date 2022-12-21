@@ -12,8 +12,8 @@ const Grabados = () => {
                     <div className="boxGrabados">
                         <img 
                         className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles_min.jpg"} 
-                        alt={"Miniatura Regando las calles"}
+                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Croosing_min.jpg"} 
+                        alt={"Miniatura Croosing"}
                         />
                         <div className="boxText">Aguafuerte y Aguatinta</div>
                     </div>
@@ -24,8 +24,8 @@ const Grabados = () => {
                     <div className="boxGrabados">
                         <img 
                         className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles_min.jpg"} 
-                        alt={"Miniatura Regando las calles"}
+                        src={process.env.PUBLIC_URL+"/img/grabados/intrusos/Tintin y Haddock en la Cuesta Moyano_min.jpg"} 
+                        alt={"Miniatura Tintin y Haddock en la Cuesta Moyano"}
                         />
                         <div className="boxText">Serie Intrusos</div>
                     </div>
@@ -36,8 +36,8 @@ const Grabados = () => {
                     <div className="boxGrabados">
                         <img 
                         className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles_min.jpg"} 
-                        alt={"Miniatura Regando las calles"}
+                        src={process.env.PUBLIC_URL+"/img/grabados/carburundum/Preparados para la danza_min.jpg"} 
+                        alt={"Miniatura Preparados para la danza"}
                         />
                         <div className="boxText">Carburundum</div>
                     </div>
@@ -48,8 +48,8 @@ const Grabados = () => {
                     <div className="boxGrabados">
                         <img 
                         className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles_min.jpg"} 
-                        alt={"Miniatura Regando las calles"}
+                        src={process.env.PUBLIC_URL+"/img/grabados/manera negra/Sueño_min.jpg"} 
+                        alt={"Miniatura Sueño"}
                         />
                         <div className="boxText">Manera negra</div>
                     </div>
@@ -60,8 +60,8 @@ const Grabados = () => {
                     <div className="boxGrabados">
                         <img 
                         className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles_min.jpg"} 
-                        alt={"Miniatura Regando las calles"}
+                        src={process.env.PUBLIC_URL+"/img/grabados/xilografia/Maquina_min.jpg"} 
+                        alt={"Miniatura Maquina"}
                         />
                         <div className="boxText">Xilografías</div>
                     </div>
@@ -72,8 +72,8 @@ const Grabados = () => {
                     <div className="boxGrabados">
                         <img 
                         className='boxImg'
-                        src={process.env.PUBLIC_URL+"/img/grabados/aguafuerte/Regando las calles_min.jpg"} 
-                        alt={"Miniatura Regando las calles"}
+                        src={process.env.PUBLIC_URL+"/img/grabados/felicitaciones/Navidad 2012_min.jpg"} 
+                        alt={"Miniatura Navidad 2012"}
                         />
                         <div className="boxText">Felicitaciones navideñas</div>
                     </div>
