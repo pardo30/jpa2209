@@ -14,7 +14,7 @@ export const Navbar = () => {
             <h1 className='pageTitle'>{`JAVIER\nPARDO\nARTE`}</h1>
             <div className='navbarList'>
                 <ul className='ulList'>
-                    <NavLink to="/home" className={({ isActive }) => (isActive ? "active" : "desactive")}>
+                    <NavLink to="/" className={({ isActive }) => (isActive ? "active" : "desactive")}>
                         <li>Home</li>
                     </NavLink>
                     <NavLink to="/grabados" className={({ isActive }) => (isActive ? "active" : "desactive")}>

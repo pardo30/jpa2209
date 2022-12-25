@@ -21,6 +21,7 @@ import maneranegra from "./Data/maneranegra.json";
 import xilografias from "./Data/xilografia.json";
 import { useState } from "react";
 import About from "./Pages/About";
+import Home from "./Pages/Home";
 //import mediaQueries from "./Components/mediaQueries";
 
 //const isDesktop = mediaQueries('(min-width: 720px)');
@@ -45,7 +46,7 @@ function App() {
         </div>
         <div className="AppPages">
           <Routes>
-            <Route path="/" element={<h1>Hello world</h1>} />
+            <Route path="/" element={<Home />} />
             <Route path="/grabados" element={<Grabados />} />
             <Route path="/acuarelas" element={<Page data={acuarelas} technique='ACUARELAS' />} />
             <Route path="/esmaltes" element={<Page data={esmaltes} technique='ESMALTES' />} />

@@ -1,0 +1,44 @@
+@media screen and (max-width: 720px) {
+    .About {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .aboutText{
+        width: 95%;
+        text-align: justify;
+    }
+    .aboutImage{
+        width: 95%;
+    }
+    
+    .aboutImage img{
+        width: 100%;
+    }
+
+}
+@media screen and (min-width: 720px) {
+.About {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 95vh;
+}
+.aboutText{
+    width: 45%
+}
+.contactText {
+    width: 100%;
+    text-align: justify;
+}
+
+.aboutImage{
+    width: 40%;
+}
+
+.aboutImage img{
+    width: 100%;
+}
+}
