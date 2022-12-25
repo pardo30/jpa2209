@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pardo30/jpa2209_b/precache-manifest.9d93e181457bb1c52bcca0c04378d138.js"
+  "/jpa2209/precache-manifest.5a61a6214e7a6a500af46cfa5379e790.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/pardo30/jpa2209_b/index.html", {
+workbox.routing.registerNavigationRoute("/jpa2209/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

@@ -1,13 +1,13 @@
 {
-  "main.css": "/pardo30/jpa2209_b/static/css/main.87f8f164.chunk.css",
-  "main.js": "/pardo30/jpa2209_b/static/js/main.17611b65.chunk.js",
-  "main.js.map": "/pardo30/jpa2209_b/static/js/main.17611b65.chunk.js.map",
-  "static/js/1.fe219de1.chunk.js": "/pardo30/jpa2209_b/static/js/1.fe219de1.chunk.js",
-  "static/js/1.fe219de1.chunk.js.map": "/pardo30/jpa2209_b/static/js/1.fe219de1.chunk.js.map",
-  "runtime~main.js": "/pardo30/jpa2209_b/static/js/runtime~main.30bf262e.js",
-  "runtime~main.js.map": "/pardo30/jpa2209_b/static/js/runtime~main.30bf262e.js.map",
-  "static/css/main.87f8f164.chunk.css.map": "/pardo30/jpa2209_b/static/css/main.87f8f164.chunk.css.map",
-  "index.html": "/pardo30/jpa2209_b/index.html",
-  "precache-manifest.9d93e181457bb1c52bcca0c04378d138.js": "/pardo30/jpa2209_b/precache-manifest.9d93e181457bb1c52bcca0c04378d138.js",
-  "service-worker.js": "/pardo30/jpa2209_b/service-worker.js"
+  "main.css": "/jpa2209/static/css/main.301d2306.chunk.css",
+  "main.js": "/jpa2209/static/js/main.a72f0ed9.chunk.js",
+  "main.js.map": "/jpa2209/static/js/main.a72f0ed9.chunk.js.map",
+  "static/js/1.fe219de1.chunk.js": "/jpa2209/static/js/1.fe219de1.chunk.js",
+  "static/js/1.fe219de1.chunk.js.map": "/jpa2209/static/js/1.fe219de1.chunk.js.map",
+  "runtime~main.js": "/jpa2209/static/js/runtime~main.5e14edcd.js",
+  "runtime~main.js.map": "/jpa2209/static/js/runtime~main.5e14edcd.js.map",
+  "static/css/main.301d2306.chunk.css.map": "/jpa2209/static/css/main.301d2306.chunk.css.map",
+  "index.html": "/jpa2209/index.html",
+  "precache-manifest.5a61a6214e7a6a500af46cfa5379e790.js": "/jpa2209/precache-manifest.5a61a6214e7a6a500af46cfa5379e790.js",
+  "service-worker.js": "/jpa2209/service-worker.js"
 }
